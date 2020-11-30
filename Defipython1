@@ -1,8 +1,8 @@
 #La leçon 1 de python consiste à apprendre comment "imprimer" différentes opérations ou encore des lignes de texte "strings"
 #dans python
 #Voici quelques exemples:
-print("You've successfully run some Python code")
-print("Congratulations!")
+print("Vous avez réussi à créer votre premier script en utilisant le langage Python")
+print("Félicitations!")
 print(1/8+674*18)
 #En exécutant le programme précédent, chacune des lignes de programme produira une "impression" dans les lignes qui suivent le 
 #programme
