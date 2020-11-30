@@ -1,0 +1,12 @@
+print('Bonjour! Aujourd hui, nous allons faire des maths avec Python!')
+
+n1 = 300
+n2 = 200
+somme = (n1 + n2)
+print('La somme de ' + str(n1) + ' et ' + str(n2) + ' = ' + str(somme))
+produit = (n1 * n2)
+print('Le produit de ' + str(n1) + ' et ' + str(n2) + ' = ' + str(produit))
+différence = (n1 - n2)
+print('La différence entre ' + str(n1) + ' et ' + str(n2) + ' = ' + str(différence))
+quotient = (n1 / n2)
+print('Le quotient de ' + str(n1) + ' et ' + str(n2) + ' = ' + str(quotient))
